@@ -1,0 +1,2 @@
+# .dictionary
+Deutsch Wörterbuch
